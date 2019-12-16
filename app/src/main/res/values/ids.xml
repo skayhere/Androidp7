@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="but1" type="id" />
+    <item name="but2" type="id" />
+    <item name="list" type="id" />
+    <item name="fetch" type="id" />
+    <item name="cid" type="id" />
+    <item name="cname" type="id" />
+    <item name="cemail" type="id" />
+</resources>
